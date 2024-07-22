@@ -1,4 +1,3 @@
-# Use the official Apache HTTP Server image as a base
 FROM httpd:latest
 
 # Create the necessary directories
